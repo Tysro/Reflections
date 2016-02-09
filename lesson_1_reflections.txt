@@ -13,4 +13,13 @@ Why do you think some version control systems, like Git, allow saving multiple f
 
 How can you use the commands git log and git diff to view the history of files?
 		git log can be used to summarize all the commits that happened in the project, including the message which tells the context of the commit.
-		git diff tells the changes made between the two commits 
+		git diff tells the changes made between the two commits.
+
+How might using version control make you more confident to make changes that could break something?
+		We can easily go back to previous state by using git checkout. 
+
+Now that you have your workspace set up, what do you want to try using Git for?
+		In some of the new projects that I will be working on.
+
+How do the diagrams help you visualize the branch structure?
+		It shows a tree like structure representing each commits in a brach and it's parent 
