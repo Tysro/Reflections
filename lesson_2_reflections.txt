@@ -5,3 +5,8 @@ How is the staging area different from the working directory and the repository?
 		Staging area is an intermditate location between working directory and the repository.It may not contain all the file in the working directory.
 		Instead of commiting the entire files in the working directory we can add specific file to the staging area and commit it.
 
+How can you use the staging area to make sure you have one commit per logical change?
+		We can just add that particular file having that logical change to the sdtaging area and commit it instead of commiting all the files.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+		If you want to experiment on a new feature without effecting the main code. You can create a new branch for a new feature and do all the changes in that branch.
