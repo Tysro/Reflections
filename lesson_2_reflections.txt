@@ -13,3 +13,7 @@ What are some situations when branches would be helpful in keeping your history 
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 		It will combine the two branches into a single branch and creates a new commit for the combined branch.The diagram heps us to identify which branches contain which commit.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+		Autoamtic merging is easy compared to manually merging 
+		Automatic merging can't resolve conflicts if any.
