@@ -9,3 +9,6 @@ Describe the differences between forks, clones, and branches. When would you use
 		When we use fork the original creator know about us having a copy .
 		Branch is used when we want to do something new in our project like a new feature,fixing a bug.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+		We can resolve conflict if any by merging manually and push it into the remote.
+
