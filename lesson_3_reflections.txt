@@ -14,3 +14,6 @@ What is the benefit of having a copy of the last known state of the remote store
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 		By mailing the new line of code.Definitely git, github method is easier for collaborating code.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+		If you are having more than one contributor, to avoid conflicts we can create a new branch and send a pull request so that others can easily see what all changes has been made. Why we need a branch is beacuse we can always maintain a stable master and can experiment new feature or bug fixes on a separate branch without effecting the current stability of the master.
